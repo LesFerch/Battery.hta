@@ -4,7 +4,7 @@
 
 ## Monitor battery status
 
-Battery.hta places a small status bar in the upper right hand corner of your primary display showing the current charge percent and an whether the computer is plugged in or running on battery.
+Battery.hta places a small status bar in the upper right hand corner of your primary display. It shows the current charge percent and whether the computer is plugged in or running on battery.
 
 When the charge level drops below %20, while on battery, a note will be displayed to start charging.
 
