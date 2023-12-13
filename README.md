@@ -1,0 +1,2 @@
+# Battery.hta
+Battery Monitor
