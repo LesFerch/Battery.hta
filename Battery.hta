@@ -11,16 +11,18 @@
   contextmenu=no
   showintaskbar=no
   scroll=no
+  border=thin
   caption=no
-  border=none
 >
-<script language="VBScript">
-'In the section above,
-'set caption=no and border=none for a minimal interface
-'set caption=yes and border=thin for a regular, captioned window
-'Alt-F4 can be used to quit the script when there is no caption
+<!--
+Set caption=no for a minimal interface
+Set caption=yes for a regular, captioned window
+Alt-F4 can be used to quit the script when there is no caption
+-->
 
-If oHTA.caption="no" And oHTA.border="none" Then x = 40
+<script language="VBScript">
+
+If oHTA.caption="no" Then x = 40
 w=200: h1=75-x: h2=110-x
 Window.ResizeTo w, h1
 Window.MoveTo (screen.availWidth - w), 0
