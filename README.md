@@ -4,11 +4,23 @@
 
 ## Monitor battery status
 
-Battery.hta places a small status bar in the upper right hand corner of your primary display showing the current charge percent and an icon that indicates if the computer is plugged in or running on battery.
+Battery.hta places a small status bar in the upper right hand corner of your primary display showing the current charge percent and an whether the computer is plugged in or running on battery.
 
 When the charge level drops below %20, while on battery, a note will be displayed to start charging.
 
-When the charge level goes above %80, while plugged, a note will be displayed to stop charging.
+When the charge level goes above %80, while plugged in, a note will be displayed to stop charging.
+
+Since it is written as an HTA, it's super easy to modify the language of the messages, color or font of the display, threshold percents, and so on.
+
+## Screenshots
+
+![image](https://github.com/LesFerch/Battery.hta/assets/79026235/4275f1e2-1a8b-4cac-b2ba-b22b38f9efe8)
+
+![image](https://github.com/LesFerch/Battery.hta/assets/79026235/f4d03a8b-a0c0-464d-ab03-2a3841f4f786)
+
+![image](https://github.com/LesFerch/Battery.hta/assets/79026235/2c2ff1ca-cd18-4d81-bc14-fd1dabba2ba1)
+
+![image](https://github.com/LesFerch/Battery.hta/assets/79026235/131c7b3e-818b-4c57-8372-4fc7b851f3ce)
 
 ## How to Download and Run
 
