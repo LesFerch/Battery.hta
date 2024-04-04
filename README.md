@@ -37,4 +37,4 @@ Since it is written as an HTA, it's super easy to modify the language of the mes
 
 \
 \
-[![image](https://user-images.githubusercontent.com/79026235/153264696-8ec747dd-37ec-4fc1-89a1-3d6ea3259a95.png)](https://github.com/LesFerch/Battery.hta)
+[![image](https://github.com/LesFerch/Battery.hta/assets/79026235/13543609-8761-4e5d-9651-1a688d13aa7b)](https://github.com/LesFerch/Battery.hta)
