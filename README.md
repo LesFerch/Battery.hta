@@ -33,7 +33,7 @@ Since it is written as an HTA, it's super easy to modify the language of the mes
 
 **Note**: Battery.hta has a minimal interface. To exit, click it to give it focus, and then press Alt-F4.
 
-**Note**: Some antivirus software may falsely detect the download as a virus. This can happen anytime you download a new executable and may require extra steps to whitelist the file.
+**Note**: Some antivirus software may falsely detect the download as a virus. This can happen any time you download a new executable and may require extra steps to whitelist the file.
 
 \
 \
