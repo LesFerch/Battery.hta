@@ -1,6 +1,6 @@
 # Battery.hta
 
-[![image](https://user-images.githubusercontent.com/79026235/152910441-59ba653c-5607-4f59-90c0-bc2851bf2688.png)Download the zip file](https://github.com/LesFerch/Battery.hta/releases/download/1.0.0/Battery.hta.zip)
+[![image](https://github.com/LesFerch/WinSetView/assets/79026235/0188480f-ca53-45d5-b9ff-daafff32869e)Download the zip file](https://github.com/LesFerch/Battery.hta/releases/download/1.0.0/Battery.hta.zip)
 
 ## Monitor battery status
 
@@ -37,4 +37,4 @@ Since it is written as an HTA, it's super easy to modify the language of the mes
 
 \
 \
-[![image](https://github.com/LesFerch/Battery.hta/assets/79026235/13543609-8761-4e5d-9651-1a688d13aa7b)](https://github.com/LesFerch/Battery.hta)
+[![image](https://github.com/LesFerch/WinSetView/assets/79026235/63b7acbc-36ef-4578-b96a-d0b7ea0cba3a)](https://github.com/LesFerch/Battery.hta)
