@@ -2,6 +2,8 @@
 
 [![image](https://github.com/LesFerch/WinSetView/assets/79026235/0188480f-ca53-45d5-b9ff-daafff32869e)Download the zip file](https://github.com/LesFerch/Battery.hta/archive/refs/heads/main.zip)
 
+**Note**: Some antivirus software may falsely detect the download as a virus. This can happen any time you download a new executable and may require extra steps to whitelist the file.
+
 ## Monitor battery status
 
 Battery.hta places a small status bar in the upper right hand corner of your primary display. It shows the current charge percent and whether the computer is plugged in or running on battery.
@@ -32,8 +34,6 @@ Since it is written as an HTA, it's super easy to modify the language of the mes
 6. If you skipped step 3, then, in the SmartScreen window, click More info and then Run anyway.
 
 **Note**: Battery.hta has a minimal interface. To exit, click it to give it focus, and then press Alt-F4.
-
-**Note**: Some antivirus software may falsely detect the download as a virus. This can happen any time you download a new executable and may require extra steps to whitelist the file.
 
 \
 \
